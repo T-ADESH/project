@@ -1,4 +1,4 @@
 let fruits = ["apple", "banana", "cherry", "dates", "pawpaw"];
 
-fruits.reverse();
+fruits.sort().reverse();
 console.log(fruits);
