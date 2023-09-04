@@ -23,9 +23,7 @@ console.log(input);
 
 
 
-//  let input = [-2, 3, -4, 7, -1]
-
-//  console.log(input.l)
+//
 
 
 

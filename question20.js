@@ -8,11 +8,14 @@ return specific
     }
 
 
-var Uniquecity = City([
+var SpecifiedCity = City([
     { name: 'John', city: 'New York' },
     { name: 'Alice', city: 'Los Angeles' },
     { name: 'Bob', city: 'New York' }
 
 ]);
 
-console.log("20. New array with only the customers from a specific city.:", Uniquecity);
+console.log(SpecifiedCity);
+
+
+//

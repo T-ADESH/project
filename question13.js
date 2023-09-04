@@ -22,3 +22,5 @@ function array() {
 
 
 console.log(array());
+
+//

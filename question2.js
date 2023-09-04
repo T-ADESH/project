@@ -17,4 +17,4 @@ let employees_details = [
 console.log((`Average salary is ${Average_salary(employees_details)}`));
 
 
-
+//

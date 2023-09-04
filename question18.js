@@ -5,3 +5,6 @@ console.log(checkArrayobject);
 }
 
 checkobject();
+
+
+//
