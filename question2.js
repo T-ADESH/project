@@ -5,7 +5,7 @@ for (index = 0; index < employees_details.length; index++) {
 sum +=employees_details[index].salary;
 }
 index++
-return sum;
+return sum / employees_details.length;
 }
 
 let employees_details = [ 
@@ -15,3 +15,6 @@ let employees_details = [
 ]
 
 console.log((`Average salary is ${Average_salary(employees_details)}`));
+
+
+

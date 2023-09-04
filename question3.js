@@ -1,8 +1,8 @@
-let numbers = [1, 2, 7, 99, 4];
+let numbers = [1, 2, 190, 99, 4];
 
-numbers.sort((a, b)=> {
-    return a - b
-});
+numbers.sort(numbers)
+
+
 
 console.log(numbers);
 
